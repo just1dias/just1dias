@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @just1dias
 - 👀 I’m interested in improve my .NET skills
-- 🌱 I’m currently learning Xamarin, C#, HTML 5, JavaScript and CSS
+- 🌱 I’m currently learning Flutter, Dart and NodeJS
 - 💞️ I’m looking to collaborate on vb.NET
 - 📫 How to reach me brunod.12833@gmail.com
 
